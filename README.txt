@@ -1,0 +1,1 @@
+Blackberry 7.0 app which access's Dept of Labor data set for labor violations throughout the US and maps out violating companies by taking a user input for city name. 
